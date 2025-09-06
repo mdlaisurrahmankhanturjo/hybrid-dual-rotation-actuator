@@ -56,9 +56,3 @@ Key features:
 - Precision positioning platforms
 - Research and educational robotics
 
----
-
-## 📬 Contact
-**Md Laisur Rahman Khan Turjo**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)

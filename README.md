@@ -2,7 +2,7 @@
 
 ![Tools](https://img.shields.io/badge/Tools-SOLIDWORKS%20%7C%20CAD%20%7C%20Robotics%20%7C%203D%20Design-orange)
 ![Status](https://img.shields.io/badge/Status-Conceptual%20Design-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/hybrid-dual-rotation-actuator)
+![Last Commit](https://img.shields.io/github/last-commit/mdlaisurrahmankhanturjo/hybrid-dual-rotation-actuator)
 
 ![Dual-Rotation Actuator](images/actuator_display_image.jpg)
 
